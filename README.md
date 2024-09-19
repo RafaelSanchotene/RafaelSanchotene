@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hello there! Welcome to my Github profile.
+## This is Rafael and my nickname is "Sancho" !
+
 
 <!--
 **RafaelSanchotene/RafaelSanchotene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
